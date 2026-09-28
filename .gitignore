@@ -25,3 +25,4 @@ htmlcov/
 .streamlit/secrets.toml
 # Logs
 *.log
+create_structure.py
